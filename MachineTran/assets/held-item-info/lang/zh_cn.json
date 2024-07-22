@@ -1,0 +1,6 @@
+{
+    "text.autoconfig.held-item-info.option.itemNameSpacing": "物品名称间距",
+    "text.autoconfig.held-item-info.option.itemNameSpacing.@Tooltip": "物品名称与下一行之间的间隙",
+    "text.autoconfig.held-item-info.option.showLore": "传说",
+    "text.autoconfig.held-item-info.option.showPaintingDescription": "绘画信息"
+}

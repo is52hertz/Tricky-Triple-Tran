@@ -1,0 +1,12 @@
+{
+    "transmog.config.disable_during_pvp_duration": "PvP期间禁用",
+    "transmog.config.disable_during_pvp_duration.label": "%d 秒",
+    "transmog.config.disable_during_pvp_duration.tooltip": "如果你攻击了另一个玩家，暂时禁用转化外观的渲染一段时间。设置为0以忽略PvP。",
+    "transmog.config.tooltip": "工具提示详细级别",
+    "transmog.config.tooltip.full": "完整",
+    "transmog.config.tooltip.full.tooltip": "在物品的工具提示中添加被转化为的外观物品的原始工具提示。这是默认选项。",
+    "transmog.config.tooltip.minimal": "最小",
+    "transmog.config.tooltip.minimal.tooltip": "在物品的工具提示中添加被转化为的外观物品的名称。",
+    "transmog.config.tooltip.none": "无",
+    "transmog.config.tooltip.none.tooltip": "在物品的工具提示中不添加任何关于被转化的物品的信息。"
+}

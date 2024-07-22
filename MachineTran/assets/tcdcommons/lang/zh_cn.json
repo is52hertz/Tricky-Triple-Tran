@@ -1,0 +1,14 @@
+{
+    "commands.badges.chat_grant": "%s 获得了玩家徽章 %s。",
+    "commands.badges.clear.output": "已为 %s 名玩家清除了所有玩家徽章状态。",
+    "commands.badges.edit.output": "已为 %s 名玩家编辑了玩家徽章状态 '%s'。",
+    "commands.badges.query.output": "%s 的玩家徽章状态值为 '%s' 的是 %s。",
+    "tcdcommons.api.client.gui.panel.tpanelelement.mouse_scroll_tip": "使用鼠标滚轮或左键点击+拖动来滚动此部分...",
+    "tcdcommons.featured": "特色推荐",
+    "tcdcommons.featured.no_one": "目前这个列表上没有人。",
+    "tcdcommons.fetch_fail": "获取信息失败。",
+    "tcdcommons.github.sponsors": "GitHub 赞助者",
+    "tcdcommons.github.sponsors.no_sponsors": "目前没有人在赞助这个项目。",
+    "tcdcommons.key.refresh_current_screen": "刷新当前屏幕",
+    "tcdcommons.special_thanks": "特别感谢"
+}

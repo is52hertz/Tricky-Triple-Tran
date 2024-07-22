@@ -1,0 +1,5 @@
+{
+    "message.fuelinfo.brewing_stand.set": "§7这个酿造台可以制作§e%d§f组§7药水",
+    "message.fuelinfo.timer": "%s：%s 剩余",
+    "message.fuelinfo.timer.current": "%s：%s §7剩余（当前物品）"
+}

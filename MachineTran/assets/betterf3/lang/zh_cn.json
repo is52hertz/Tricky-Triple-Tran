@@ -1,0 +1,17 @@
+{
+    "config.betterf3.title": "更好的F3",
+    "format.betterf3.fps": "%s 帧率 / %s 帧率 %s",
+    "text.betterf3.line.fps": "帧率",
+    "text.betterf3.line.fps_tps": "帧率 / 刻数 (Alt+F3)",
+    "text.betterf3.line.fps_tps_new": "帧数 / 刻数 (F3+2)",
+    "text.betterf3.line.minecraft": "我的世界",
+    "text.betterf3.line.mood": "心情",
+    "text.betterf3.line.player_coords": "玩家坐标",
+    "text.betterf3.line.server_tick": "服务器计时器",
+    "text.betterf3.line.tick_manager_status": "Tick管理器状态",
+    "text.betterf3.line.tick_manager_status.frozen": "冻结",
+    "text.betterf3.line.tick_manager_status.normal": "正常运行",
+    "text.betterf3.line.tick_manager_status.sprinting": "疾跑中",
+    "text.betterf3.line.tick_manager_status.stepping": "冻结 - 步进",
+    "text.betterf3.module.minecraft": "我的世界"
+}

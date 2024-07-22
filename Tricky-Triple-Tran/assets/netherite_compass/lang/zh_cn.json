@@ -1,0 +1,8 @@
+{
+  "item.netherite_compass.netherite_compass": "下界合金指南针",
+  "item.netherite_compass.netherite_compass.hint": "使用指南针再次搜索！",
+  "item.netherite_compass.netherite_compass.locked_on": "附近有远古残骸！",
+  "item.netherite_compass.netherite_compass.wrong_dim1": "被追踪的远古残骸",
+  "item.netherite_compass.netherite_compass.wrong_dim2": "是在另一个维度！",
+  "item.netherite_compass.netherite_compass.not_found": "定位中..."
+}

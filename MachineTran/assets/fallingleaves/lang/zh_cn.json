@@ -1,0 +1,6 @@
+{
+    "config.fallingleaves.spawn_breaking_leaves": "当这个方块被打击或腐烂时，是否掉落一些树叶？",
+    "text.autoconfig.fallingleaves.option.cherrySpawnRate": "樱花花瓣生成速率",
+    "text.autoconfig.fallingleaves.option.cherrySpawnRate.@Tooltip": "以10%的倍率更改原版樱花花瓣生成率，例如：n5 = 50%（一半生成率）\n10 = 100%（原始生成率）\n20 = 200%（双倍生成率）",
+    "text.autoconfig.fallingleaves.title": "飘落的树叶"
+}

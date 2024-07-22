@@ -1,0 +1,15 @@
+{
+    "armorchroma.tooltip.material": "护甲材料：%s",
+    "text.autoconfig.armorchroma.option.compressBar": "压缩条",
+    "text.autoconfig.armorchroma.option.compressBar.@Tooltip": "当你的护甲超过20时，将条压缩成不同颜色的边框",
+    "text.autoconfig.armorchroma.option.displayedArmorCap": "显示护甲上限",
+    "text.autoconfig.armorchroma.option.displayedArmorCap.@Tooltip": "可以显示的最大护甲点数",
+    "text.autoconfig.armorchroma.option.enabled": "启用此Mod",
+    "text.autoconfig.armorchroma.option.glintIntensity": "闪光强度",
+    "text.autoconfig.armorchroma.option.renderBackground": "渲染背景",
+    "text.autoconfig.armorchroma.option.renderBackground.@Tooltip": "当你的护甲少于20时，显示空的护甲图标",
+    "text.autoconfig.armorchroma.option.renderGlint": "渲染闪光",
+    "text.autoconfig.armorchroma.option.renderGlint.@Tooltip": "显示附魔的闪光",
+    "text.autoconfig.armorchroma.option.reverse": "反转护甲顺序",
+    "text.autoconfig.armorchroma.title": "护甲色彩配置"
+}

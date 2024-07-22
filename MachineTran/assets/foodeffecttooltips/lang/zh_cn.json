@@ -1,0 +1,5 @@
+{
+    "text.autoconfig.FoodEffectTooltips.option.BlacklistedItemIdentifiers": "黑名单物品标识符",
+    "text.autoconfig.FoodEffectTooltips.option.BlacklistedModsIDs": "被列入黑名单的模组ID",
+    "text.autoconfig.FoodEffectTooltips.option.UseAsWhitelistInstead": "使用列表作为白名单"
+}
